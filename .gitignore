@@ -24,3 +24,6 @@ package-lock.json
 /blob-report/
 /playwright/.cache/
 src-jsx
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
